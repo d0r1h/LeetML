@@ -15,4 +15,4 @@ __Machine Learning in Leetcode Style__ #LeetML
 | Deep Learning  |  [22, ]  |
 | Statistics  |  [78, ]  |
 | Data Preprocessing| [112, ] | 
-| NLP |[129, ]
+| NLP |[129, 320]
