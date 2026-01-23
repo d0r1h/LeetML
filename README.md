@@ -11,7 +11,7 @@ __Machine Learning in Leetcode Style__ #LeetML
 | Category | Problem ID |
 |----------|----------|
 | Linear Algebra  | [1, 2, 4, 76, 328, ] |
-| Machine Learning  | [14, 86, 93]  |
+| Machine Learning  | [14, 86, 93, 73, 36, 46]  |
 | Deep Learning  |  [22, ]  |
 | Statistics  |  [78, ]  |
 | Data Preprocessing| [112, ] | 
